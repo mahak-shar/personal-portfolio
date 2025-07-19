@@ -37,12 +37,6 @@ const Contact: React.FC = () => {
       link: "mailto:mahahaksh0506@gmail.com"
     },
     {
-      icon: <Phone className="w-6 h-6" />,
-      title: "Phone",
-      content: "+91 9654441779",
-      link: "tel:+919654441779"
-    },
-    {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
       content: "Greater Noida, Uttar Pradesh, India",

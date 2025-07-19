@@ -97,9 +97,6 @@ const Footer: React.FC = () => {
                   <strong>Email:</strong> mahaksh0506@gmail.com
                 </p>
                 <p className="text-slate-300">
-                  <strong>Phone:</strong> +91 9654441779
-                </p>
-                <p className="text-slate-300">
                   <strong>Location:</strong> Greater Noida, Uttar Pradesh, India
                 </p>
               </div>
