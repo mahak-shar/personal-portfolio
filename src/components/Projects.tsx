@@ -4,7 +4,7 @@ import { Github, ExternalLink } from 'lucide-react';
 import textutil from '../images/textutil.png'
 import memories from '../images/memories.png'
 import article from '../images/article.png'
-import spotify from '../images/spotify.png'
+import spotify from '../images/spotify.jpg'
 import jsclock from '../images/jsclock.png'
 import tictac from '../images/tictac.jpg'
 import atm from '../images/atm.png'
