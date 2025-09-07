@@ -10,7 +10,7 @@ const Education: React.FC = () => {
       location: "Greater Noida, Uttar Pradesh",
       description: [
         "Pursuing BTech in Electronics and Communication Engineering",
-        "CGPA: 8.18/10",
+        "CGPA: 8.52/10",
         "Active member of coding club and technical societies"
       ],
       current: true

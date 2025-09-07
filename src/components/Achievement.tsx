@@ -8,10 +8,22 @@ import adobegensolve from '../images/adobegensolve.jpg';
 import campusmantri from '../images/campusmantri.jpg';
 import jpcertificate from '../images/jpcertificate.jpg';
 import rookie from '../images/rookie.jpg';
-
+import flipkart from '../images/flipkartgrid.jpg';
 
 const Achievement: React.FC = () => {
   const achievement = [
+     {
+      title: "National Semi-Finalist : Flipkart Grid 7.0",
+      location: "Virtual",
+      date: "2025",
+      description: [
+        "Achieved National Semi-Finalist position in Flipkart Grid 7.0, a premier national-level hackathon and case competition. ",
+        "Demonstrated exceptional problem-solving, analytical, and teamwork skills to clear multiple competitive rounds. ",
+        "Recognized among top-performing teams nationwide after rigorous evaluation by Flipkart’s technical panel."
+      ],
+      image: flipkart,
+      link: "https://www.linkedin.com/posts/mahak-sharma-20034a247_flipkartgrid-techjourney-learning-activity-7369053413248045056-O43w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0Y3KABkU-yaDO8UxAfwzvAIJ-FAGc9Ztk",
+    },
      {
       title: "Cleared Round 1 - Adobe India Hackathon 2025",
       location: "Virtual",
